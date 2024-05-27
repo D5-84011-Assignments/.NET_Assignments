@@ -1,0 +1,14 @@
+E:\Sunbeam\dotnet\Practice\Assignment01\Question02\obj\Debug\net8.0\Question02.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sunbeam\dotnet\Practice\Assignment01\Question02\obj\Debug\net8.0\Question02.AssemblyInfoInputs.cache
+E:\Sunbeam\dotnet\Practice\Assignment01\Question02\obj\Debug\net8.0\Question02.AssemblyInfo.cs
+E:\Sunbeam\dotnet\Practice\Assignment01\Question02\obj\Debug\net8.0\Question02.csproj.CoreCompileInputs.cache
+E:\Sunbeam\dotnet\Practice\Assignment01\Question02\bin\Debug\net8.0\Question02.exe
+E:\Sunbeam\dotnet\Practice\Assignment01\Question02\bin\Debug\net8.0\Question02.deps.json
+E:\Sunbeam\dotnet\Practice\Assignment01\Question02\bin\Debug\net8.0\Question02.runtimeconfig.json
+E:\Sunbeam\dotnet\Practice\Assignment01\Question02\bin\Debug\net8.0\Question02.dll
+E:\Sunbeam\dotnet\Practice\Assignment01\Question02\bin\Debug\net8.0\Question02.pdb
+E:\Sunbeam\dotnet\Practice\Assignment01\Question02\obj\Debug\net8.0\Question02.dll
+E:\Sunbeam\dotnet\Practice\Assignment01\Question02\obj\Debug\net8.0\refint\Question02.dll
+E:\Sunbeam\dotnet\Practice\Assignment01\Question02\obj\Debug\net8.0\Question02.pdb
+E:\Sunbeam\dotnet\Practice\Assignment01\Question02\obj\Debug\net8.0\Question02.genruntimeconfig.cache
+E:\Sunbeam\dotnet\Practice\Assignment01\Question02\obj\Debug\net8.0\ref\Question02.dll
