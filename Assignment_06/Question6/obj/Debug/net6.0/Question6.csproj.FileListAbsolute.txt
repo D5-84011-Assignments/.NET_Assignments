@@ -1,0 +1,14 @@
+F:\DOTNET-ASSIGN\Solution6\Question6\bin\Debug\net6.0\Question6.exe
+F:\DOTNET-ASSIGN\Solution6\Question6\bin\Debug\net6.0\Question6.deps.json
+F:\DOTNET-ASSIGN\Solution6\Question6\bin\Debug\net6.0\Question6.runtimeconfig.json
+F:\DOTNET-ASSIGN\Solution6\Question6\bin\Debug\net6.0\Question6.dll
+F:\DOTNET-ASSIGN\Solution6\Question6\bin\Debug\net6.0\Question6.pdb
+F:\DOTNET-ASSIGN\Solution6\Question6\obj\Debug\net6.0\Question6.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET-ASSIGN\Solution6\Question6\obj\Debug\net6.0\Question6.AssemblyInfoInputs.cache
+F:\DOTNET-ASSIGN\Solution6\Question6\obj\Debug\net6.0\Question6.AssemblyInfo.cs
+F:\DOTNET-ASSIGN\Solution6\Question6\obj\Debug\net6.0\Question6.csproj.CoreCompileInputs.cache
+F:\DOTNET-ASSIGN\Solution6\Question6\obj\Debug\net6.0\Question6.dll
+F:\DOTNET-ASSIGN\Solution6\Question6\obj\Debug\net6.0\refint\Question6.dll
+F:\DOTNET-ASSIGN\Solution6\Question6\obj\Debug\net6.0\Question6.pdb
+F:\DOTNET-ASSIGN\Solution6\Question6\obj\Debug\net6.0\Question6.genruntimeconfig.cache
+F:\DOTNET-ASSIGN\Solution6\Question6\obj\Debug\net6.0\ref\Question6.dll
