@@ -1,0 +1,12 @@
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May27\Assignment13\Assignment13\obj\Debug\net6.0\Assignment13.GeneratedMSBuildEditorConfig.editorconfig
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May27\Assignment13\Assignment13\obj\Debug\net6.0\Assignment13.AssemblyInfoInputs.cache
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May27\Assignment13\Assignment13\obj\Debug\net6.0\Assignment13.AssemblyInfo.cs
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May27\Assignment13\Assignment13\obj\Debug\net6.0\Assignment13.csproj.CoreCompileInputs.cache
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May27\Assignment13\Assignment13\obj\Debug\net6.0\Assignment13.sourcelink.json
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May27\Assignment13\Assignment13\bin\Debug\net6.0\Assignment13.deps.json
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May27\Assignment13\Assignment13\bin\Debug\net6.0\Assignment13.dll
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May27\Assignment13\Assignment13\bin\Debug\net6.0\Assignment13.pdb
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May27\Assignment13\Assignment13\obj\Debug\net6.0\Assignment13.dll
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May27\Assignment13\Assignment13\obj\Debug\net6.0\refint\Assignment13.dll
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May27\Assignment13\Assignment13\obj\Debug\net6.0\Assignment13.pdb
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May27\Assignment13\Assignment13\obj\Debug\net6.0\ref\Assignment13.dll
