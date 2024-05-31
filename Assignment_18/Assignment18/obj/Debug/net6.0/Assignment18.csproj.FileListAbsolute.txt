@@ -1,0 +1,15 @@
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Assignment18\Assignment18\bin\Debug\net6.0\Assignment18.exe
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Assignment18\Assignment18\bin\Debug\net6.0\Assignment18.deps.json
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Assignment18\Assignment18\bin\Debug\net6.0\Assignment18.runtimeconfig.json
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Assignment18\Assignment18\bin\Debug\net6.0\Assignment18.dll
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Assignment18\Assignment18\bin\Debug\net6.0\Assignment18.pdb
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Assignment18\Assignment18\obj\Debug\net6.0\Assignment18.GeneratedMSBuildEditorConfig.editorconfig
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Assignment18\Assignment18\obj\Debug\net6.0\Assignment18.AssemblyInfoInputs.cache
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Assignment18\Assignment18\obj\Debug\net6.0\Assignment18.AssemblyInfo.cs
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Assignment18\Assignment18\obj\Debug\net6.0\Assignment18.csproj.CoreCompileInputs.cache
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Assignment18\Assignment18\obj\Debug\net6.0\Assignment18.sourcelink.json
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Assignment18\Assignment18\obj\Debug\net6.0\Assignment18.dll
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Assignment18\Assignment18\obj\Debug\net6.0\refint\Assignment18.dll
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Assignment18\Assignment18\obj\Debug\net6.0\Assignment18.pdb
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Assignment18\Assignment18\obj\Debug\net6.0\Assignment18.genruntimeconfig.cache
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Assignment18\Assignment18\obj\Debug\net6.0\ref\Assignment18.dll
