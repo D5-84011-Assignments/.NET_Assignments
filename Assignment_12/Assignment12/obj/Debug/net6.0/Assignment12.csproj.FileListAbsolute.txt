@@ -1,0 +1,15 @@
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment12\Assignment12\bin\Debug\net6.0\Assignment12.exe
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment12\Assignment12\bin\Debug\net6.0\Assignment12.deps.json
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment12\Assignment12\bin\Debug\net6.0\Assignment12.runtimeconfig.json
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment12\Assignment12\bin\Debug\net6.0\Assignment12.dll
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment12\Assignment12\bin\Debug\net6.0\Assignment12.pdb
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment12\Assignment12\obj\Debug\net6.0\Assignment12.GeneratedMSBuildEditorConfig.editorconfig
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment12\Assignment12\obj\Debug\net6.0\Assignment12.AssemblyInfoInputs.cache
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment12\Assignment12\obj\Debug\net6.0\Assignment12.AssemblyInfo.cs
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment12\Assignment12\obj\Debug\net6.0\Assignment12.csproj.CoreCompileInputs.cache
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment12\Assignment12\obj\Debug\net6.0\Assignment12.sourcelink.json
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment12\Assignment12\obj\Debug\net6.0\Assignment12.dll
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment12\Assignment12\obj\Debug\net6.0\refint\Assignment12.dll
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment12\Assignment12\obj\Debug\net6.0\Assignment12.pdb
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment12\Assignment12\obj\Debug\net6.0\Assignment12.genruntimeconfig.cache
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment12\Assignment12\obj\Debug\net6.0\ref\Assignment12.dll

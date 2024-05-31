@@ -1,0 +1,15 @@
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment11\Assignment11\bin\Debug\net6.0\Assignment11.exe
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment11\Assignment11\bin\Debug\net6.0\Assignment11.deps.json
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment11\Assignment11\bin\Debug\net6.0\Assignment11.runtimeconfig.json
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment11\Assignment11\bin\Debug\net6.0\Assignment11.dll
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment11\Assignment11\bin\Debug\net6.0\Assignment11.pdb
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment11\Assignment11\obj\Debug\net6.0\Assignment11.GeneratedMSBuildEditorConfig.editorconfig
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment11\Assignment11\obj\Debug\net6.0\Assignment11.AssemblyInfoInputs.cache
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment11\Assignment11\obj\Debug\net6.0\Assignment11.AssemblyInfo.cs
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment11\Assignment11\obj\Debug\net6.0\Assignment11.csproj.CoreCompileInputs.cache
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment11\Assignment11\obj\Debug\net6.0\Assignment11.sourcelink.json
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment11\Assignment11\obj\Debug\net6.0\Assignment11.dll
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment11\Assignment11\obj\Debug\net6.0\refint\Assignment11.dll
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment11\Assignment11\obj\Debug\net6.0\Assignment11.pdb
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment11\Assignment11\obj\Debug\net6.0\Assignment11.genruntimeconfig.cache
+F:\Full Material\5 MS.Net Technologies\dotnet\Daily Practice\May21\Assignment11\Assignment11\obj\Debug\net6.0\ref\Assignment11.dll

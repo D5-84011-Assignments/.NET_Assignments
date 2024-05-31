@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "R1DwD4mSgMc=",
+  "success": true,
+  "projectFilePath": "F:\\Full Material\\5 MS.Net Technologies\\dotnet\\Daily Practice\\May21\\Assignment12\\Assignment12\\Assignment12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sagar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sagar\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sagar\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Sagar\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
