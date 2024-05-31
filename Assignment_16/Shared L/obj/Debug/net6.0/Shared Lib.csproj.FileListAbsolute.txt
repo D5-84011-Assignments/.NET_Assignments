@@ -1,0 +1,12 @@
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Assignmnet16\Shared L\obj\Debug\net6.0\Shared Lib.GeneratedMSBuildEditorConfig.editorconfig
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Assignmnet16\Shared L\obj\Debug\net6.0\Shared Lib.AssemblyInfoInputs.cache
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Assignmnet16\Shared L\obj\Debug\net6.0\Shared Lib.AssemblyInfo.cs
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Assignmnet16\Shared L\obj\Debug\net6.0\Shared Lib.csproj.CoreCompileInputs.cache
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Assignmnet16\Shared L\obj\Debug\net6.0\Shared Lib.sourcelink.json
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Assignmnet16\Shared L\bin\Debug\net6.0\Shared Lib.deps.json
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Assignmnet16\Shared L\bin\Debug\net6.0\Shared Lib.dll
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Assignmnet16\Shared L\bin\Debug\net6.0\Shared Lib.pdb
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Assignmnet16\Shared L\obj\Debug\net6.0\Shared Lib.dll
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Assignmnet16\Shared L\obj\Debug\net6.0\refint\Shared Lib.dll
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Assignmnet16\Shared L\obj\Debug\net6.0\Shared Lib.pdb
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Assignmnet16\Shared L\obj\Debug\net6.0\ref\Shared Lib.dll

@@ -1,0 +1,19 @@
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Demo\Assignmnent16\bin\Debug\net6.0\Assignmnent16.exe
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Demo\Assignmnent16\bin\Debug\net6.0\Assignmnent16.deps.json
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Demo\Assignmnent16\bin\Debug\net6.0\Assignmnent16.runtimeconfig.json
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Demo\Assignmnent16\bin\Debug\net6.0\Assignmnent16.dll
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Demo\Assignmnent16\bin\Debug\net6.0\Assignmnent16.pdb
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Demo\Assignmnent16\obj\Debug\net6.0\Assignmnent16.GeneratedMSBuildEditorConfig.editorconfig
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Demo\Assignmnent16\obj\Debug\net6.0\Assignmnent16.AssemblyInfoInputs.cache
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Demo\Assignmnent16\obj\Debug\net6.0\Assignmnent16.AssemblyInfo.cs
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Demo\Assignmnent16\obj\Debug\net6.0\Assignmnent16.csproj.CoreCompileInputs.cache
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Demo\Assignmnent16\obj\Debug\net6.0\Assignmnent16.sourcelink.json
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Demo\Assignmnent16\obj\Debug\net6.0\Assignmnent16.dll
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Demo\Assignmnent16\obj\Debug\net6.0\refint\Assignmnent16.dll
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Demo\Assignmnent16\obj\Debug\net6.0\Assignmnent16.pdb
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Demo\Assignmnent16\obj\Debug\net6.0\Assignmnent16.genruntimeconfig.cache
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Demo\Assignmnent16\obj\Debug\net6.0\ref\Assignmnent16.dll
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Demo\Assignmnent16\bin\Debug\net6.0\Shared Lib.dll
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Demo\Assignmnent16\bin\Debug\net6.0\Shared Lib.pdb
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Demo\Assignmnent16\obj\Debug\net6.0\Assignmnent16.csproj.AssemblyReference.cache
+F:\Full_Material\5_MS.Net_Technologies\dotnet\Daily_Practice\May28\Demo\Assignmnent16\obj\Debug\net6.0\Assignmn.0635D57D.Up2Date
